@@ -68,3 +68,11 @@ I'm a passionate Data Scientist with expertise in AI, Machine Learning, Deep Lea
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebAhmed934&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
 </p>
+
+## Support Me
+
+Cheers if you've read till here. So here's a cute catto 🐱 for you:
+
+<p align="center">
+  <img src="https://example.com/bongo-cat.gif" alt="Bongo Cat" />
+</p>
