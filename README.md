@@ -1,16 +1,14 @@
-# Haseeb Ahmed
+# Hi, I'm Haseeb Ahmed! 👋
 
-![Profile Picture](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## About Me
 
-## Data Scientist
-
-As a dedicated Data Scientist with a robust background in AI, Machine Learning, Deep Learning, Computer Vision, NLP, and Python, I bring a wealth of expertise to every project. My proficiency extends to frameworks like Flask, Django, and Flutter, ensuring versatile and innovative solutions tailored to your needs.
+I'm a passionate Data Scientist with expertise in AI, Machine Learning, Deep Learning, Computer Vision, and NLP. My skills extend to frameworks like Flask, Django, and Flutter, allowing me to deliver versatile and innovative solutions tailored to diverse needs.
 
 - 🌍 Based in Pakistan
-- ✉️ Contact me at [201980057@gift.edu.pk](mailto:201980057@gift.edu.pk)
+- ✉️ Reach me at [201980057@gift.edu.pk](mailto:201980057@gift.edu.pk)
 - 🧠 Currently learning Flutter
-- 🤝 Open to collaborating on projects
-- ⚡ Always open to collaboration—let's work together on exciting projects or discuss innovative ideas!
+- 🤝 Open to collaborations on exciting projects
+- ⚡ Always up for discussing innovative ideas and working on new challenges!
 
 ## Skills
 
@@ -55,7 +53,7 @@ As a dedicated Data Scientist with a robust background in AI, Machine Learning, 
   <a href="http://www.github.com/HaseebAhmed934">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaseebAhmed934&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
-  <!-- Commented out due to potential service issue -->
+  <!-- Uncomment and add a working URL if available -->
   <!-- <a href="http://www.github.com/HaseebAhmed934">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=HaseebAhmed934&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
   </a> -->
