@@ -69,10 +69,4 @@ I'm a passionate Data Scientist with expertise in AI, Machine Learning, Deep Lea
   </a>
 </p>
 
-## Support Me
-
-Cheers if you've read till here. So here's a cute catto 🐱 for you:
-
-<p align="center">
-  <img src="https://example.com/bongo-cat.gif" alt="Bongo Cat" />
-</p>
+ 
